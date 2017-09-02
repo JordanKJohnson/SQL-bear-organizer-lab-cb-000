@@ -8,7 +8,7 @@ INSERT INTO bears (id,name,age,gender,color,temperament,alive) VALUES ('4','Serg
 
 INSERT INTO bears (id,name,age,gender,color,temperament,alive) VALUES ('5','Melissa','13','F','BROWN','DOCILE','T');
 
-INSERT INTO bears (id,name,age,gender,color,temperament,alive) VALUES ('6','Grinch','13','M','BROWN','HOSTILE','T');
+INSERT INTO bears (id,name,age,gender,color,temperament,alive) VALUES ('6','Grinch','13','M','BROWN','GOOFY','T');
 
 INSERT INTO bears (id,name,age,gender,color,temperament,alive) VALUES ('7','Wendy','3','F','BROWN','DOCILE','T');
 
