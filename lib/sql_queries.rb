@@ -23,9 +23,9 @@ def selects_most_prominent_color_and_returns_with_count
 end
 
 def counts_number_of_bears_with_goofy_temperaments
-  "SELECT COUNT(name) bears where temperament='GOOFY'"
+  "SELECT COUNT(name) FROM bears where temperament='GOOFY'"
 end
 
 def selects_bear_that_killed_Tim
-  "SELECT NAME,AGE FROM bears ORDER BY age DESC LIMIT 1"
+  "SELECT NAME from bears where name = NULL"
 end
